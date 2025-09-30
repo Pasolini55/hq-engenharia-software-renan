@@ -53,11 +53,11 @@ README.md
 - **Retrospectiva**: notas de melhoria registradas em issue.
 
 ## Links Importantes
-- **Repositório (público)**: https://github.com/<usuario>/<repositorio>
-- **Product Backlog (local de gestão)**: https://github.com/<usuario>/<repositorio>/issues
-- **Product Backlog (arquivo/visão listada)**: ./gestao/product_backlog.csv
-- **Sprint (local de gestão / Kanban)**: https://github.com/users/<usuario>/projects/<id>
-- **Sprint Backlog (arquivo/visão listada)**: ./gestao/sprint_backlog_week1_SOLO.csv
+- **Repositório (público)**: https://github.com/Pasolini55/hq-engenharia-software-renan
+- **Product Backlog (local de gestão)**: https://github.com/Pasolini55/hq-engenharia-software-renan/issues
+- **Product Backlog (arquivo/visão listada)**: ./engenharia%20de%20software%20atividade/gestao/product_backlog.csv
+- **Sprint (local de gestão / Kanban)**:https://github.com/users/Pasolini55/projects/1/views/1
+- **Sprint Backlog (arquivo/visão listada)**: ./engenharia%20de%20software%20atividade/gestao/sprint_backlog_week1_SOLO.csv
 - **Kanban (vista Sprint 1)**: https://github.com/users/<usuario>/projects/<id>?query=label%3Asprint-1
 
 ## Convenções (Solo)
