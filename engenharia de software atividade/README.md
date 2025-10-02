@@ -56,9 +56,9 @@ README.md
 - **Repositório (público)**: https://github.com/Pasolini55/hq-engenharia-software-renan
 - **Product Backlog (local de gestão)**: https://github.com/Pasolini55/hq-engenharia-software-renan/issues
 - **Product Backlog (arquivo/visão listada)**: ./engenharia%20de%20software%20atividade/gestao/product_backlog.csv
-- **Sprint (local de gestão / Kanban)**:https://github.com/users/Pasolini55/projects/1/views/1
+- **Sprint (local de gestão / Kanban)**:https://github.com/users/Pasolini55/projects/1/views/3
 - **Sprint Backlog (arquivo/visão listada)**: ./engenharia%20de%20software%20atividade/gestao/sprint_backlog_week1_SOLO.csv
-- **Kanban (vista Sprint 1)**: https://github.com/users/<usuario>/projects/<id>?query=label%3Asprint-1
+- **Kanban (vista Sprint 1)**: https://github.com/users/Pasolini55/projects/1/views/1 
 
 ## Convenções (Solo)
 - **Labels**: `backlog`, `sprint-1`, `arte`, `roteiro`, `revisao`.
