@@ -58,10 +58,14 @@ README.md
 - **Product Backlog (arquivo/visão listada)**: ./engenharia%20de%20software%20atividade/gestao/product_backlog.csv
 - **Sprint (local de gestão / Kanban)**:https://github.com/users/Pasolini55/projects/1/views/3
 - **Sprint Backlog (arquivo/visão listada)**: ./engenharia%20de%20software%20atividade/gestao/sprint_backlog_week1_SOLO.csv
-- **Kanban (vista Sprint 1)**: https://github.com/users/Pasolini55/projects/1/views/1 
+- **Kanban (vista Sprint 1)**: https://github.com/users/Pasolini55/projects/1/views/1
+- [/roteiro/pagina1.md](https://github.com/Pasolini55/hq-engenharia-software-renan/blob/main/engenharia%20de%20software%20atividade/roteiro/pagina1.md)
+
 
 ## Convenções (Solo)
 - **Labels**: `backlog`, `sprint-1`, `arte`, `roteiro`, `revisao`.
 - **WIP pessoal**: **1** item em *Doing* por vez.
 - **Branches**: `main` + branches por tarefa; PR mesmo em solo (auto-review).
 - **DoD**: cada tarefa com critérios Gherkin e anexos quando couber.
+
+
